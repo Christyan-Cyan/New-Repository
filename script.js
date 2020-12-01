@@ -1,5 +1,5 @@
 
-window.setInterval('jam_berjalan()',6000)
+window.setInterval('jam_berjalan()',1000)
 function jam_berjalan(){
     let waktu = new Date();
     
