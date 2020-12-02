@@ -316,3 +316,22 @@ footer{
     }
 >>>>>>> 059684f17c76a332c1d9b476cc8dfb963ec96ec1
 }
+   
+.clock{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    font-size: 35px;
+    background-color: darkcyan;
+    padding: 20px 0;
+}
+#jam{
+    color: white;
+    text-align: center;
+}
+#menit{
+    color: white;
+}
+#detik{
+    color: white;
+}
